@@ -1,0 +1,14 @@
+.App{
+ 
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+.Appheader{
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+ align-items: ;
+
+}
